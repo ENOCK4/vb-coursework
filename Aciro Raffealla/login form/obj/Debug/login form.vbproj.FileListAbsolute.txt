@@ -1,0 +1,12 @@
+C:\project\login form\login form\bin\Debug\login form.exe.config
+C:\project\login form\login form\bin\Debug\login form.exe
+C:\project\login form\login form\bin\Debug\login form.pdb
+C:\project\login form\login form\bin\Debug\login form.xml
+C:\project\login form\login form\obj\Debug\login form.vbprojAssemblyReference.cache
+C:\project\login form\login form\obj\Debug\login_form.Form1.resources
+C:\project\login form\login form\obj\Debug\login_form.Resources.resources
+C:\project\login form\login form\obj\Debug\login form.vbproj.GenerateResource.cache
+C:\project\login form\login form\obj\Debug\login form.vbproj.CoreCompileInputs.cache
+C:\project\login form\login form\obj\Debug\login form.exe
+C:\project\login form\login form\obj\Debug\login form.xml
+C:\project\login form\login form\obj\Debug\login form.pdb
